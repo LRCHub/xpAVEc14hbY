@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "銀の祈誓",
+  "base_artist": "そらる",
+  "createdAt": "2026-02-07T07:39:44.344899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "銀の祈誓",
+      "artist": "Soraru",
+      "has_synced": true,
+      "path": "select/01_銀の祈誓_Soraru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀の祈誓",
+      "artist": "そらる",
+      "has_synced": false,
+      "path": "select/pl_01_銀の祈誓_そらる.txt"
+    }
+  ]
+}
